@@ -1,0 +1,19 @@
+li{
+	border: 1px solid #666;
+	border-color: #000080;
+	background:#eee;
+	padding:3px;
+	margin:10px;
+}
+li a{
+	display:block;
+	background:fff;
+	text-decoration:none;
+}
+li > a {
+	text-decoration:none;
+	display:block;
+	font-size:100%;
+	background:#fff;
+	border-bottom:none;
+}
